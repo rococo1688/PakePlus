@@ -28,7 +28,7 @@
                 <div class="infoBox">
                     <div class="appBox">
                         <div class="appName">测试阮家</div>
-                        <div class="appVersion">1.01</div>
+                        <div class="appVersion">1.11</div>
                     </div>
                     <div class="appDesc">我的第一个让UN就爱你</div>
                 </div>
