@@ -1,8 +1,7 @@
 name: Release
 on:
-    push:
-        branches: ['template']
-    workflow_dispatch:
+    repository_dispatch:
+        types: [deploy, build] # 定义可以触发的自定义事件类型
 
 jobs:
     release:
